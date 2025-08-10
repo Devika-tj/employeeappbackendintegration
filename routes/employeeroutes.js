@@ -9,7 +9,7 @@ router.get('/', async (req, res) => {
         { name: 'Add Employee', link: '/api/add' }
     ];
 
-    const employees = await employeemodel.find(); // or your employee data
+    const employees = await employeemodel.find(); 
 
     res.render('home', { nav, employees });
 });
