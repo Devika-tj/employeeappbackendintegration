@@ -43,6 +43,15 @@ Database: MongoDB
 ├── package-lock.json
 └── README.md
 
+📸 Screenshots
+
+![Home Page](screenshots/home1.png)
+![Add Employee](screenshots/add.png)
+![Update Employee](screenshots/update.png)
+![Delete Employee](screenshots/home.png)
+
+
+
  ⚙ Installation
 
 1. **Clone the repository**
@@ -71,13 +80,6 @@ npx nodemon app.js
 Open your browser and go to:
 
 http://localhost:3000
-
-📸 Screenshots
-
-![Home Page](screenshots/home1.png)
-![Add Employee](screenshots/add.png)
-![Update Employee](screenshots/update.png)
-![Delete Employee](screenshots/home.png)
 
 
 
