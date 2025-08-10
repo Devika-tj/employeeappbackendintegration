@@ -21,45 +21,7 @@ Backend: Node.js, Express.js
 
 Database: MongoDB
 
-<<<<<<< HEAD
-=======
 
-
-
- ⚙ Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/employee-app.git
-cd employee-app
-
-2️⃣ Install dependencies
-
-npm install
-
-3️⃣ Set up environment variables in .env
-
-MONGO_URL=your_mongodb_atlas_connection_string
-PORT=3000
-
-4️⃣ Run the server
-
-node app.js
-
-or with 
-
-npx nodemon app.js
->>>>>>> 95323b90dcc80c16fc5a397863d4b8f74124f949
-
-🌐 Usage
-Open your browser and go to:
-
-http://localhost:3000
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 95323b90dcc80c16fc5a397863d4b8f74124f949
 
 
 
