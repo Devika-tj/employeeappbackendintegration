@@ -21,60 +21,6 @@ Backend: Node.js, Express.js
 
 Database: MongoDB
 
- 📂 Folder Structure
-
- EMPLOYEEAPPBACKEND/
-│
-├── models/
-│ └── employeemodel.js
-│
-├── routes/
-│ └── employeeroutes.js
-│
-├── views/
-│ ├── addemployee.ejs
-│ ├── edit.ejs
-│ └── home.ejs
-│
-├── connection.js
-├── app.js
-├── .env
-├── package.json
-├── package-lock.json
-└── README.md
-
-📸 Screenshots
-
-![Home Page](screenshots/home1.png)
-![Add Employee](screenshots/add.png)
-![Update Employee](screenshots/update.png)
-![Delete Employee](screenshots/home.png)
-
-
-
- ⚙ Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/employee-app.git
-cd employee-app
-
-2️⃣ Install dependencies
-
-npm install
-
-3️⃣ Set up environment variables in .env
-
-MONGO_URL=your_mongodb_atlas_connection_string
-PORT=3000
-
-4️⃣ Run the server
-
-node app.js
-
-or with 
-
-npx nodemon app.js
 
 🌐 Usage
 Open your browser and go to:
