@@ -21,34 +21,7 @@ Backend: Node.js, Express.js
 
 Database: MongoDB
 
- 📂 Folder Structure
 
- EMPLOYEEAPPBACKEND/
-│
-├── models/
-│ └── employeemodel.js
-│
-├── routes/
-│ └── employeeroutes.js
-│
-├── views/
-│ ├── addemployee.ejs
-│ ├── edit.ejs
-│ └── home.ejs
-│
-├── connection.js
-├── app.js
-├── .env
-├── package.json
-├── package-lock.json
-└── README.md
-
-📸 Screenshots
-
-![Home Page](screenshots/home1.png)
-![Add Employee](screenshots/add.png)
-![Update Employee](screenshots/update.png)
-![Delete Employee](screenshots/home.png)
 
 
  ⚙ Installation
